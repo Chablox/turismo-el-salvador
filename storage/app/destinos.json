@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "titulo": "El Tunco",
+        "departamento": "La Libertad",
+        "categoria": "Playa",
+        "descripcion": "Uno de los destinos turísticos más conocidos de El Salvador, famoso por sus playas, atardeceres y actividades de surf.",
+        "precio": "$2.00",
+        "horario": "24 horas",
+        "ubicacion": "Tamanique, La Libertad"
+    },
+    {
+        "id": 2,
+        "titulo": "Lago de Coatepeque",
+        "departamento": "Santa Ana",
+        "categoria": "Lago",
+        "descripcion": "Lago de origen volcánico rodeado de montañas, restaurantes y diferentes actividades recreativas.",
+        "precio": "$3.00",
+        "horario": "8:00 AM - 5:00 PM",
+        "ubicacion": "El Congo, Santa Ana"
+    },
+    {
+        "id": 3,
+        "titulo": "El Boquerón",
+        "departamento": "San Salvador",
+        "categoria": "Naturaleza",
+        "descripcion": "Parque ubicado en el cráter del volcán de San Salvador, conocido por sus senderos y vistas panorámicas.",
+        "precio": "$2.00",
+        "horario": "8:00 AM - 5:00 PM",
+        "ubicacion": "San Salvador"
+    },
+    {
+        "id": 4,
+        "titulo": "Ruta de Las Flores",
+        "departamento": "Sonsonate y Ahuachapán",
+        "categoria": "Turismo cultural",
+        "descripcion": "Recorrido turístico que atraviesa pueblos característicos de la zona occidental de El Salvador.",
+        "precio": "Variable",
+        "horario": "Variable",
+        "ubicacion": "Zona occidental"
+    },
+    {
+        "id": 5,
+        "titulo": "Suchitoto",
+        "departamento": "Cuscatlán",
+        "categoria": "Turismo cultural",
+        "descripcion": "Ciudad colonial reconocida por su arquitectura, calles empedradas, cultura y atractivos turísticos.",
+        "precio": "Variable",
+        "horario": "Variable",
+        "ubicacion": "Suchitoto, Cuscatlán"
+    }
+]
